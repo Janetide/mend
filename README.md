@@ -1,8 +1,8 @@
 # mend
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-FF6B6B)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![make.fun bounty $100](https://img.shields.io/badge/bounty-$100-22C55E)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122)
-[![make.fun](https://img.shields.io/badge/built%20on-make.fun-8B5CF6)](https://make.fun/?ref=trfjt22d&utm_source=github&utm_medium=readme&utm_campaign=mend)
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Janetide/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Janetide/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
 
 mend applies an AI-written edit — a unified diff, SEARCH/REPLACE blocks, a V4A patch, or JSON edits — to a tree of text files. Every edit in the patch is applied, or nothing is written at all.
 
